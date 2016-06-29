@@ -1,15 +1,7 @@
 # 2016 Log
 
 ## 入场前必读
-<html>
-<body>
 
-<?php
-echo "My first PHP script!";
-?> 
-
-</body>
-</html>
 
 锚是什么,不利因素有哪些
 **4H是不是配合`<这个最关键>`**
